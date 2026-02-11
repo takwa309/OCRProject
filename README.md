@@ -75,11 +75,7 @@ OCRProject/
 git clone https://github.com/takwa309/OCRProject.git  
 cd OCRProject  
 
-2️⃣ Install dependencies
-
-pip install -r requirements.txt  
-
-3️⃣ Install Tesseract OCR
+2️⃣  Install Tesseract OCR
 
 Download and install Tesseract:  
 https://github.com/tesseract-ocr/tesseract  
@@ -88,7 +84,7 @@ Update the Tesseract path inside the script if needed:
 
 pytesseract.pytesseract.tesseract_cmd = r"YOUR_PATH_TO_TESSERACT"
 
-4️⃣ Run the project
+3️⃣ Run the project
 
 python main.py  
 
@@ -128,6 +124,4 @@ Advanced OCR Alternatives:
 - Web interface (Flask or FastAPI)  
 - Evaluation metrics implementation (CER / WER)  
 
----
-nt – Embedded Systems & AI  
-University of Carthage  
+
