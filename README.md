@@ -57,13 +57,14 @@ Configuration parameters:
 
 ---
 
-##  Project Structure
+## 📂 Project Structure
 
-OCRProject/
-  image/ et 1/          # Input images  
-  main.py              # Main OCR pipeline  
-  ocr_results.csv      # Output results  
-  README.md            # Project documentation  
+OCRProject/  
+├── 1/              # Input images folder  
+│               
+├── main.py             # Main OCR pipeline  
+├── ocr_results.csv     # Output results file  
+└── README.md           # Project documentation  
 
 ---
 
