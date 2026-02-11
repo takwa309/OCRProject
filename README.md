@@ -60,8 +60,7 @@ Configuration parameters:
 ## 📂 Project Structure
 
 OCRProject/  
-├── 1/              # Input images folder  
-│               
+├── images/             # Input images folder             
 ├── main.py             # Main OCR pipeline  
 ├── ocr_results.csv     # Output results file  
 └── README.md           # Project documentation  
